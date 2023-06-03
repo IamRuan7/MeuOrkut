@@ -1,0 +1,27 @@
+@media screen and(min-widht:650px) {
+    .container{
+        margin-top: 10px;
+    }
+   
+    #field__title{
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .fields__textboxs{
+        height: 150px;
+    }
+
+    .fields__textboxs > inpunt{
+        height: 60px;
+    }
+
+    .fields__recovery{
+        margin-bottom: 20px;
+    }
+
+}
+
+@media screen and (max-heigth:650px){
+    
+}
